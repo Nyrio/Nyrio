@@ -1,9 +1,4 @@
 I think of myself as a creative developer. I like to give life to new stories and experiences and support this work with innovative and challenging code.
+I also work on exciting projects at NVIDIA, mostly focused on optimizing GPU algorithms for Machine Learning frameworks.
 
-My professional work focuses on parallel computing and Machine Learning. I am lucky to work on state-of-the-art projects at NVIDIA, such as RAPIDS and Merlin.
-
-
-| | |
-|:---:|:---:|
-|![Wait beatmap for Beat Saber](media/wait.png) | ![Dondante beatmap for Beat Saber](media/dondante.png)|
-|![XWing drawing effect with Unity shaders](media/xwing.png) | ![Broken Shuttle, my entry for a Ludum Dare game jam](media/broken_shuttle.png)|
+Find me on other platforms: https://linktr.ee/nyri0

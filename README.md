@@ -1,4 +1,4 @@
-I think of myself as a creative developer. I like to give life to new stories and experiences and support this work with innovative and challenging code.
-I also work on exciting projects at NVIDIA, mostly focused on optimizing GPU algorithms for Machine Learning frameworks.
+I think of myself as a creative developer. Game development is one of my many hobbies.
+I also work on exciting projects at NVIDIA as a CUDA, GPU algorithms, and low-level optimization expert.
 
 Find me on other platforms: https://linktr.ee/nyri0
